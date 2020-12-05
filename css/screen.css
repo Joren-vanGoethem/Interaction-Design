@@ -276,7 +276,7 @@ a:focus {
 /* size modifiers */
 
 .o-row--lg {
-    padding: 48px 24px 24px;
+    padding: 0px 12px 12px;
 }
 
 @media (min-width: 768px) {
