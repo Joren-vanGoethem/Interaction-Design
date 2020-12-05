@@ -92,16 +92,6 @@ const tagsMeal = data => {
     }
 }
 
-// const tagsMeal2 = data => {
-//     let tagsHTML = "";
-//     if(data.meals[0].strTags == null){
-//         tagsHTML = `<p class="js-tags c-lead c-lead--md">No tags</p> `;
-//     }else{
-//         tagsHTML = `<p class="js-tags c-lead c-lead--md">${data.meals[0].strTags}</p> `;
-//     }
-//     domTags.innerHTML = tagsHTML;    
-// }
-
 // location.reload();
 const mealInstructions = data => {
     let instructionsHTML = "";

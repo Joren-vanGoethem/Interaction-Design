@@ -148,7 +148,7 @@ h3 {
 
 h1 {
     font-size: 32px;
-    line-height: 24px;
+    line-height: 32px;
     margin: 0 0 16px;
 }
 
@@ -928,7 +928,7 @@ a:focus {
         margin-top: 24px;
     }
     .o-layout--gutter-lg>.o-layout__item {
-        padding: 0 48px;
+        padding: 0 32px;
     }
 }
 
